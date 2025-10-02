@@ -63,7 +63,7 @@ A Django REST Framework project for managing **employees and tasks**, alongside 
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/altafahmedliya11/tasknotes.git>
+git clone https://github.com/altafahmedliya11/tasknotes.git
 cd tasknotes
 ```
 
